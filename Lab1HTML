@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про мене</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h3>Усім привіт!</h3>
+        <h1 class="centr">МЕНЕ ЗВАТИ ДАША ОВСІЄНКО</h1>
+        <h3 class="right">Я студентка групи ТЗ-21</h3>
+        <hr>
+        <p>За <a href="https://www.w3schools.com" target="_blank"</a> За цим посиланням ви можете знайти цікаву інформацію про HTML та CSS, а картинку нижче я побачила на просторах інтернету і вирішила з вами поділитися.</p>
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeburst.io%2F25-html-css-tutorials-6a864f387185&psig=AOvVaw0Wt1bg4sshiJTg9vT2CYLk&ust=1716128228389000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCPDTrP2xl4YDFQAAAAAdAAAAABAE">
+            <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML та CSS" class="center">
+        </a>
+    </div>
+</body>
+</html>
